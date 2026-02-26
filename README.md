@@ -35,6 +35,25 @@ The main objectives of this project are to:
 #🗂️ Data Source
 The dataset was obtained via web scraping from EasyDiner.
 Data was collected for five major Indian cities:
+-🏙️ Mumbai
+
+-🌆 Pune
+
+-🌃 Bengaluru
+
+-🏡 Hyderabad
+
+-🏛️ Ahmedabad
+
+#🧠 Features Extracted
+Feature	Description
+Restaurant Name 	: Name of the restaurant
+Rating	 :  Average user rating
+Cuisine  :	Type(s) of cuisine served
+Location	 : Area and city of restaurant
+Approx. Cost for Two	: Estimated cost for two people
+Discount	: Discount percentage on EasyDiner
+
 
 
 
