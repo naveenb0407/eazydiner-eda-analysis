@@ -2,7 +2,7 @@
 ## Scraping and Analyzing Restaurant Trends: An EDA Approach Using EasyDiner Data
 
 📊 Overview
-This project focuses on web scraping and exploratory data analysis (EDA) of restaurant data collected from EasyDiner.
+This project focuses on web scraping and exploratory data analysis (EDA) of restaurant data collected from <a herf="EasyDiner">.
 It aims to uncover patterns and insights in restaurant ratings, cuisines, discounts, and pricing across five major Indian cities.
 
 The project demonstrates how to transform unstructured web data into actionable insights using Python, data cleaning, and visualization techniques.
@@ -31,3 +31,6 @@ The main objectives of this project are to:
 4 How do average prices and discounts vary across cities?
 
 5 Is there a relationship between price, rating, and discount
+
+
+
