@@ -34,7 +34,7 @@ The main objectives of this project are to:
 
 #🗂️ Data Source
 The dataset was obtained via web scraping from <a href="https://www.eazydiner.com/">.
-Data was collected for five major Indian cities:
+Data was collected for five major Indian cities:</a>
 
 
 
