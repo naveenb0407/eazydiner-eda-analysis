@@ -7,6 +7,8 @@ It aims to uncover patterns and insights in restaurant ratings, cuisines, discou
 
 The project demonstrates how to transform unstructured web data into actionable insights using Python, data cleaning, and visualization techniques.
 
+
+
 🎯 Objective
 The main objectives of this project are to:
 
