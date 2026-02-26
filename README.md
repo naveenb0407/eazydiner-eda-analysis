@@ -10,7 +10,7 @@ The project demonstrates how to transform unstructured web data into actionable 
 
 
 
-#🎯 Objective
+# 🎯 Objective
 
 The main objectives of this project are to:
 
@@ -23,7 +23,7 @@ The main objectives of this project are to:
 -Visualize findings to highlight consumer behavior and market opportunities in the Indian restaurant industry.
 
 
-#🧩 Problem Statements
+# 🧩 Problem Statements
 
 1 Which cuisines are most popular in different localities?
 
@@ -35,7 +35,7 @@ The main objectives of this project are to:
 
 5 Is there a relationship between price, rating, and discount
 
-#🗂️ Data Source
+# 🗂️ Data Source
 
 The dataset was obtained via web scraping from EasyDiner.
 Data was collected for five major Indian cities:
@@ -49,9 +49,9 @@ Data was collected for five major Indian cities:
 
 -🏛️ Ahmedabad
 
-#🧠 Features Extracted
+# 🧠 Features Extracted
 
-Feature	Description
+## Feature	Description
 
 Restaurant Name 	: Name of the restaurant
 
@@ -65,7 +65,7 @@ Approx. Cost for Two	: Estimated cost for two people
 
 Discount	: Discount percentage on EasyDiner
 
-#🧹 Data Cleaning and Preparation
+# 🧹 Data Cleaning and Preparation
 
 The raw data contained inconsistencies, extra text, and symbols. The cleaning process involved:
 
@@ -79,9 +79,9 @@ Adding a new LOCATION column for city-wise segmentation.
 
 Exporting the final structured dataset for analysis.
 
-#📈 Exploratory Data Analysis (EDA)
+# 📈 Exploratory Data Analysis (EDA)
 
-##🔸 Univariate Analysis
+## 🔸 Univariate Analysis
 
 Most restaurants have ratings between 4.0–4.5, indicating good quality overall.
 
@@ -91,7 +91,7 @@ Multicuisine is the most common offering, followed by North Indian.
 
 Top chains include One8 Commune, Punjab Grill, and Mirage.
 
-##🔸 Bivariate Analysis
+## 🔸 Bivariate Analysis
 
 Price vs Rating: High ratings are observed across all price ranges.
 
@@ -99,7 +99,7 @@ Average Price by City: Mumbai is costliest; Ahmedabad is cheapest.
 
 Discounts by City: Pune and Hyderabad show greater discount variability.
 
-##🔸 Multivariate Analysis
+## 🔸 Multivariate Analysis
 
 Most restaurants charge between ₹1000–₹2500.
 
@@ -109,9 +109,9 @@ Ratings remain high (4.0–4.5) across all price ranges.
 
 Mumbai and Bengaluru are premium dining hubs.
 
-#💡 Key Insights
+# 💡 Key Insights
 
-##Aspect	Insight
+## Aspect	Insight
 
 ⭐ Ratings	Most restaurants are rated between 4.0–4.5
 
@@ -123,9 +123,9 @@ Mumbai and Bengaluru are premium dining hubs.
 
 📍 City Trends	Mumbai is costliest; Ahmedabad most affordable
 
-#🧰 Tools and Technologies Used
+# 🧰 Tools and Technologies Used
 
-##Tool	Purpose
+## Tool	Purpose
 
 🐍 Python	Core programming language
 
@@ -139,7 +139,7 @@ Mumbai and Bengaluru are premium dining hubs.
 
 🧠 Jupyter Notebook	Interactive analysis and visualization
 
-#🏁 Conclusion
+# 🏁 Conclusion
 
 Most restaurants maintain strong customer satisfaction (4.0–4.5 ratings).
 
@@ -153,7 +153,7 @@ EDA confirms that quality and service influence ratings more than pricing or pro
 
 This analysis highlights how web scraping and data analytics can reveal real-world business insights from public web data.
 
-#🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 Automate scraping with Selenium or Scrapy.
 
@@ -163,7 +163,7 @@ Expand dataset to cover more Indian cities.
 
 Use Machine Learning to predict restaurant ratings based on features like price, cuisine, and discount.
 
-#👨‍💻 Autor 
+# 👨‍💻 Autor 
 
 *Naveen
 
