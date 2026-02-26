@@ -33,8 +33,8 @@ The main objectives of this project are to:
 5 Is there a relationship between price, rating, and discount
 
 #🗂️ Data Source
-The dataset was obtained via web scraping from <a href="https://www.eazydiner.com/">.
-Data was collected for five major Indian cities:</a>
+The dataset was obtained via web scraping from EasyDiner.
+Data was collected for five major Indian cities:
 
 
 
