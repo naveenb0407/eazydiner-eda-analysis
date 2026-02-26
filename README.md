@@ -23,7 +23,11 @@ The main objectives of this project are to:
 
 🧩 Problem Statements
 1 Which cuisines are most popular in different localities?
+
 2 Which areas have the highest concentration of top-rated restaurants?
+
 3 Which restaurant types (Café, Fine Dining, Casual) offer the best discounts?
+
 4 How do average prices and discounts vary across cities?
+
 5 Is there a relationship between price, rating, and discount
